@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://raluca:raluca@devconnector-mfp7n.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "6b02240c8a506fd6f082",
+  "githubSecret": "5c53dada38851e04d691b29a7cbbee7f36f32d67"
+}
