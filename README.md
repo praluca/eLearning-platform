@@ -1,5 +1,5 @@
 # E-Learning Platform
-This is a simple web application that helps students to learn more about programming. This app was made for my bachelor thesis.
+This is a simple web application that helps students to learn more about programming. 
 ## Available features
 1. Users registration(teachers and students)
 2. Video courses
@@ -12,4 +12,7 @@ npm run dev
 ```
 This app will be available at  http://localhost:3000
 ## How look this app?
-![Login](Pictures/Login.png)
+![Login](Pictures/Login.PNG)
+![Statistics](Pictures/Statistics.PNG)
+![Student](Pictures/Dashboard.PNG)
+![Chat](Pictures/Chat.PNG)
