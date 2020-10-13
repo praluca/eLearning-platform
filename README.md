@@ -1,10 +1,11 @@
 # E-Learning Platform
 This is a simple web application that helps students to learn more about programming. 
 ## Available features
-1. Users registration(teachers and students)
-2. Video courses
-3. Quiziz and assignments
-4. Statistics
+1. Users registration(teachers and students) :computer:
+2. Video courses :video_camera::blue_book:
+3. Quiziz and assignments :question:
+4. Statistics :bar_chart:
+5. Chat :speech_balloon:
 ## How to run this app?
 It's very easy to run this app. You must write into your terminal:
 ```bash
